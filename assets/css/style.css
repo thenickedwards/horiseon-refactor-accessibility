@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* header styling */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,6 +43,8 @@ header div ul li {
     margin-left: 25px;
 }
 
+/* general styling */
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -58,6 +62,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* main page content styling for services */
 
 .float-left {
     float: left;
@@ -93,6 +99,8 @@ p {
     font-size: 36px;
 }
 
+/* side content styling for benefits */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -119,6 +127,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* footer styling */
 
 footer {
     padding: 30px;
