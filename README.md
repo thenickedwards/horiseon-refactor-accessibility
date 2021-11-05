@@ -14,6 +14,7 @@ Refactored Horiseon webpage for accessibility and per accepatance criteria liste
 
 ## Links
 URL for published page: https://thenickedwards.github.io/horiseon-refactor-accessibility/
+
 URL for GitHub repo: https://github.com/thenickedwards/horiseon-refactor-accessibility
 
 ## Updated Screenshot of Page
