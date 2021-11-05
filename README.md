@@ -1,7 +1,7 @@
 # horiseon-refactor-accessibility
 Homework 01 HTML, CSS, and Git: Code Refactor - Refactoring accessibility of Horiseon page
 
-Refactored Horiseon webpage for accessibility and per accepatance criteria listed in [W1-hw_README.md](horiseon-refactor-accessibility/W1-hw_README.md).
+Refactored Horiseon webpage for accessibility and per accepatance criteria listed in [W1-hw_README.md](W1-hw_README.md).
 
 ## Work Done
 * Updated title
@@ -20,7 +20,4 @@ URL for GitHub repo: https://github.com/thenickedwards/horiseon-refactor-accessi
 ## Updated Screenshot of Page
 ![Screenshot of updated Horiseon webpage.](screencapture-horiseon-refactor.png)
 
-
-
- 
-
+Thanks for reading the README!
