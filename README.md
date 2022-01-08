@@ -21,3 +21,4 @@ URL for GitHub repo: https://github.com/thenickedwards/horiseon-refactor-accessi
 ![Screenshot of updated Horiseon webpage.](screencapture-horiseon-refactor.png)
 
 Thanks for reading the README!
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
